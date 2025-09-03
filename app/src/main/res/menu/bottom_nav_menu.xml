@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/textFieldsFragment"
+        android:title="TextFields"
+        android:icon="@android:drawable/ic_menu_edit" />
+    <item
+        android:id="@+id/buttonsFragment"
+        android:title="Botones"
+        android:icon="@android:drawable/ic_menu_send" />
+    <item
+        android:id="@+id/selectionControlsFragment"
+        android:title="Selección"
+        android:icon="@android:drawable/ic_menu_manage" />
+    <item
+        android:id="@+id/listsFragment"
+        android:title="Listas"
+        android:icon="@android:drawable/ic_menu_agenda" />
+    <item
+        android:id="@+id/infoElementsFragment"
+        android:title="Info"
+        android:icon="@android:drawable/ic_menu_info_details" />
+</menu>

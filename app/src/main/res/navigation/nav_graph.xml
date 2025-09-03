@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/textFieldsFragment">
+
+    <fragment
+        android:id="@+id/textFieldsFragment"
+        android:name="com.example.tarea1_elementosinterfaz.TextFieldsFragment"
+        android:label="fragment_text_fields"
+        tools:layout="@layout/fragment_text_fields" />
+    <fragment
+        android:id="@+id/buttonsFragment"
+        android:name="com.example.tarea1_elementosinterfaz.ButtonsFragment"
+        android:label="fragment_buttons"
+        tools:layout="@layout/fragment_buttons" />
+    <fragment
+        android:id="@+id/selectionControlsFragment"
+        android:name="com.example.tarea1_elementosinterfaz.SelectionControlsFragment"
+        android:label="fragment_selection_controls"
+        tools:layout="@layout/fragment_selection_controls" />
+    <fragment
+        android:id="@+id/listsFragment"
+        android:name="com.example.tarea1_elementosinterfaz.ListsFragment"
+        android:label="fragment_lists"
+        tools:layout="@layout/fragment_lists" />
+    <fragment
+        android:id="@+id/infoElementsFragment"
+        android:name="com.example.tarea1_elementosinterfaz.InfoElementsFragment"
+        android:label="fragment_info_elements"
+        tools:layout="@layout/fragment_info_elements" />
+</navigation>

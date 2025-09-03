@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ButtonsFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Botones"
+            android:textSize="24sp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="8dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Los botones permiten a los usuarios realizar acciones con un solo toque."
+            android:layout_marginBottom="16dp"/>
+
+        <!-- Button -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textSize="18sp"
+            android:layout_marginTop="16dp"/>
+        <Button
+            android:id="@+id/button_normal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tócame"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="8dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Un botón estándar que ejecuta una acción."
+            android:layout_marginBottom="16dp"/>
+
+        <!-- ImageButton -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ImageButton"
+            android:textSize="18sp"
+            android:layout_marginTop="16dp"/>
+        <ImageButton
+            android:id="@+id/image_button_example"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@android:drawable/ic_menu_camera"
+            android:contentDescription="Cámara"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="8dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Un botón que muestra una imagen en lugar de texto."
+            android:layout_marginBottom="16dp"/>
+
+        <!-- FloatingActionButton -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="FloatingActionButton (FAB)"
+            android:textSize="18sp"
+            android:layout_marginTop="16dp"/>
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/fab_example"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="8dp"
+            android:src="@android:drawable/ic_input_add"
+            app:tint="@android:color/white"
+            android:contentDescription="Añadir"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Un botón flotante para una acción principal en la pantalla."
+            android:layout_marginBottom="16dp"/>
+
+    </LinearLayout>
+</ScrollView>
