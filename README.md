@@ -4,7 +4,7 @@
 
 Esta aplicación para Android sirve como demostración de varios elementos de la interfaz de usuario comunes en el desarrollo de Android. Permite a los usuarios interactuar y ver el comportamiento de componentes como botones, campos de texto, controles de selección (casillas de verificación, botones de radio, interruptores), listas y otros elementos de información.
 
-El objetivo principal de esta aplicación es proporcionar un ejemplo práctico y educativo de cómo implementar y utilizar estos elementos de la interfaz de usuario dentro de una aplicación de Android utilizando Kotlin y las bibliotecas modernas de Android Jetpack.
+El objetivo principal de esta aplicación es crear una aplicación Android que demuestre el uso de Activities y Fragments para explicar diferentes elementos de interfaz de usuario.
 
 ## Instrucciones de Uso del Proyecto
 
@@ -36,5 +36,3 @@ Para utilizar este proyecto, sigue estos pasos:
 
 5.  **Explorar la Aplicación:**
     *   Una vez que la aplicación se inicie, podrás navegar a través de las diferentes secciones para interactuar con los elementos de la interfaz de usuario implementados.
-
-Si encuentras algún problema durante la sincronización de Gradle o la compilación, verifica el panel "Build" en Android Studio para obtener mensajes de error detallados. Asegúrate de tener la última versión estable de Android Studio y los SDK de Android necesarios instalados.
