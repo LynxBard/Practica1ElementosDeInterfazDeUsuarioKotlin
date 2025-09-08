@@ -1,5 +1,5 @@
 # Tarea 1. Elementos de Interfaz de Usuario
-
+Alumno: Gonzalez Sanchez Carlos David
 ## Descripción de la App
 
 Esta aplicación para Android sirve como demostración de varios elementos de la interfaz de usuario comunes en el desarrollo de Android. Permite a los usuarios interactuar y ver el comportamiento de componentes como botones, campos de texto, controles de selección (casillas de verificación, botones de radio, interruptores), listas y otros elementos de información.
