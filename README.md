@@ -37,7 +37,7 @@ Para utilizar este proyecto, sigue estos pasos:
 5.  **Explorar la Aplicación:**
     *   Una vez que la aplicación se inicie, podrás navegar a través de las diferentes secciones para interactuar con los elementos de la interfaz de usuario implementados.
 
-**Fragmen 1: TextFields (EditText)** 
+**Fragment 1: TextFields (EditText)** 
   * <img width="382" height="848" alt="image" src="https://github.com/user-attachments/assets/71b40d53-aa6b-4069-9ab0-247b0ba19e34" />
 **Fragment 2: Botones (Button, ImageButton)**
   * <img width="340" height="754" alt="image" src="https://github.com/user-attachments/assets/6da79a02-4dcd-407d-8cc6-6e895d084edc" />
