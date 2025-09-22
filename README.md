@@ -52,11 +52,6 @@ Para utilizar este proyecto, sigue estos pasos:
 <br>
 **Fragment 4: Listas (RecyclerView o ListView)**
 <br>
-| Vista Principal de la Lista | Detalle al Seleccionar un Elemento |
-| :---: | :---: |
-| <img width="344" height="764" alt="image" src="https://github.com/user-attachments/assets/ddf919a0-a8b2-4c0f-a28e-00dea0fec497" />|<img width="343" height="761" alt="image" src="https://github.com/user-attachments/assets/94639bcc-db45-4117-a472-1e610c8d15b9" />|
-<br>
----
 **Fragment 5: Elementos de información (TextView, ImageView, ProgressBar)**
 <br>
 | Estado Inicial | Indicador de Progreso Activo |
