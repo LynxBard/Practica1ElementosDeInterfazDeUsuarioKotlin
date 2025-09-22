@@ -50,9 +50,9 @@ Para utilizar este proyecto, sigue estos pasos:
 **Fragment 4: Listas (RecyclerView o ListView)**
 | Vista Principal de la Lista | Detalle al Seleccionar un Elemento |
 | :---: | :---: |
-| ![MainView](https://github.com/user-attachments/assets/ddf919a0-a8b2-4c0f-a28e-00dea0fec497) | ![selectionDetail](https://github.com/user-attachments/assets/94639bcc-db45-4117-a472-1e610c8d15b9) |
+| ![mainView](https://github.com/user-attachments/assets/ddf919a0-a8b2-4c0f-a28e-00dea0fec497) | ![selectionDetail](https://github.com/user-attachments/assets/94639bcc-db45-4117-a472-1e610c8d15b9) |
 
 **Fragment 5: Elementos de información (TextView, ImageView, ProgressBar)**
 | Estado Inicial | Indicador de Progreso Activo |
 | :---: | :---: |
-| <img width="372" height="826" alt="image" src="https://github.com/user-attachments/assets/ddbe7fb7-a9e9-4b14-99e9-5968dab7f56c"/> | <img width="372" height="826" alt="image" src="https://github.com/user-attachments/assets/c87bc6c8-6c09-443e-9683-d1ec694a6e0d"/> |
+| ![initialState](https://github.com/user-attachments/assets/ddbe7fb7-a9e9-4b14-99e9-5968dab7f56c) | ![progressActive](https://github.com/user-attachments/assets/c87bc6c8-6c09-443e-9683-d1ec694a6e0d) |
