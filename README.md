@@ -39,6 +39,7 @@ Para utilizar este proyecto, sigue estos pasos:
     *   Una vez que la aplicación se inicie, podrás navegar a través de las diferentes secciones para interactuar con los elementos de la interfaz de usuario implementados.
 
 **Fragment 1: TextFields (EditText)** 
+
 ![TextFields](https://github.com/user-attachments/assets/71b40d53-aa6b-4069-9ab0-247b0ba19e34)
 
 **Fragment 2: Botones (Button, ImageButton)**
