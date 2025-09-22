@@ -1,4 +1,5 @@
-# Tarea 1. Elementos de Interfaz de Usuario
+# Practica 1. Instalación y Funcionamiento de los Entornos Móviles
+## Ejercicio 2: Transiciones entre Activities y Fragments con Kotlin
 Alumno: Gonzalez Sanchez Carlos David
 ## Descripción de la App
 
