@@ -60,5 +60,6 @@ Para utilizar este proyecto, sigue estos pasos:
 <br>
 | Estado Inicial | Indicador de Progreso Activo |
 | :---: | :---: |
-| <img width="372" height="826" alt="image" src="https://github.com/user-attachments/assets/ddbe7fb7-a9e9-4b14-99e9-5968dab7f56c" />|<img width="372" height="826" alt="image" src="https://github.com/user-attachments/assets/c87bc6c8-6c09-443e-9683-d1ec694a6e0d" />|
+| <img width="372" height="826" alt="image" src="https://github.com/user-attachments/assets/ddbe7fb7-a9e9-4b14-99e9-5968dab7f56c" /> | <img width="372" height="826" alt="image" src="https://github.com/user-attachments/assets/c87bc6c8-6c09-443e-9683-d1ec694a6e0d" />|
+<br>
 
