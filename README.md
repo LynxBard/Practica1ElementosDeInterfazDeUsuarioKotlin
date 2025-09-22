@@ -40,7 +40,7 @@ Para utilizar este proyecto, sigue estos pasos:
 
 **Fragment 1: TextFields (EditText)** 
 
-!(https://github.com/user-attachments/assets/71b40d53-aa6b-4069-9ab0-247b0ba19e34)
+![](https://github.com/user-attachments/assets/71b40d53-aa6b-4069-9ab0-247b0ba19e34)
 
 **Fragment 2: Botones (Button, ImageButton)**
 
