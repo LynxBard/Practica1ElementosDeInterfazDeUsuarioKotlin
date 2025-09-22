@@ -42,7 +42,7 @@ Para utilizar este proyecto, sigue estos pasos:
 ![TextFields](https://github.com/user-attachments/assets/71b40d53-aa6b-4069-9ab0-247b0ba19e34)
 
 **Fragment 2: Botones (Button, ImageButton)**
-<img width="340" height="754" alt="image" src="https://github.com/user-attachments/assets/6da79a02-4dcd-407d-8cc6-6e895d084edc" />
+![TextFields](https://github.com/user-attachments/assets/6da79a02-4dcd-407d-8cc6-6e895d084edc)
 
 **Fragment 3: Elementos de selección (CheckBox, RadioButton, Switch)**
 <img width="374" height="830" alt="image" src="https://github.com/user-attachments/assets/8b6cd7f5-5450-4a4f-ae4f-559a23afc806" />
