@@ -1,5 +1,6 @@
 package com.example.tarea1_elementosinterfaz
 
+import android.content.Intent
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
@@ -22,6 +23,7 @@ class ButtonsFragment : Fragment() {
         val buttonNormal = view.findViewById<Button>(R.id.button_normal)
         val imageButtonExample = view.findViewById<ImageButton>(R.id.image_button_example)
         val fabExample = view.findViewById<FloatingActionButton>(R.id.fab_example)
+        val buttonNavigate = view.findViewById<Button>(R.id.button_navigate)
 
         buttonNormal.setOnClickListener {
             Toast.makeText(context, "Botón normal presionado", Toast.LENGTH_SHORT).show()
@@ -33,6 +35,11 @@ class ButtonsFragment : Fragment() {
 
         fabExample.setOnClickListener {
             Toast.makeText(context, "FloatingActionButton presionado", Toast.LENGTH_SHORT).show()
+        }
+
+        buttonNavigate.setOnClickListener {
+            val intent = Intent(activity, SecondActivity::class.java)
+            startActivity(intent)
         }
 
         return view

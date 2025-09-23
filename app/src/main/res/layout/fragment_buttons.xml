@@ -89,5 +89,25 @@
             android:text="Un botón flotante para una acción principal en la pantalla."
             android:layout_marginBottom="16dp"/>
 
+        <!-- Botón para navegar a otra Activity -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Navegación entre Activities"
+            android:textSize="18sp"
+            android:layout_marginTop="16dp"/>
+        <Button
+            android:id="@+id/button_navigate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Abrir nueva Activity"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="8dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Este botón abre una pantalla completamente nueva (otra Activity)."
+            android:layout_marginBottom="16dp"/>
+
     </LinearLayout>
 </ScrollView>
