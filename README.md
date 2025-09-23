@@ -1,10 +1,11 @@
-# Tarea1_ElementosInterfaz
-
+# Practica 1. Instalación y Funcionamiento de los Entornos Móviles
+## Ejercicio 2: Transiciones entre Activities y Fragments con Kotlin
+Alumno: Gonzalez Sanchez Carlos David
 ## Descripción de la App
 
 Esta aplicación para Android sirve como demostración de varios elementos de la interfaz de usuario comunes en el desarrollo de Android. Permite a los usuarios interactuar y ver el comportamiento de componentes como botones, campos de texto, controles de selección (casillas de verificación, botones de radio, interruptores), listas y otros elementos de información.
 
-El objetivo principal de esta aplicación es proporcionar un ejemplo práctico y educativo de cómo implementar y utilizar estos elementos de la interfaz de usuario dentro de una aplicación de Android utilizando Kotlin y las bibliotecas modernas de Android Jetpack.
+El objetivo principal de esta aplicación es crear una aplicación Android que demuestre el uso de Activities y Fragments para explicar diferentes elementos de interfaz de usuario.
 
 ## Instrucciones de Uso del Proyecto
 
@@ -37,4 +38,33 @@ Para utilizar este proyecto, sigue estos pasos:
 5.  **Explorar la Aplicación:**
     *   Una vez que la aplicación se inicie, podrás navegar a través de las diferentes secciones para interactuar con los elementos de la interfaz de usuario implementados.
 
-Si encuentras algún problema durante la sincronización de Gradle o la compilación, verifica el panel "Build" en Android Studio para obtener mensajes de error detallados. Asegúrate de tener la última versión estable de Android Studio y los SDK de Android necesarios instalados.
+**Fragment 1: TextFields (EditText)** 
+
+![](https://github.com/user-attachments/assets/71b40d53-aa6b-4069-9ab0-247b0ba19e34)
+
+**Fragment 2: Botones (Button, ImageButton)**
+
+![Buttons](https://github.com/user-attachments/assets/6da79a02-4dcd-407d-8cc6-6e895d084edc)
+
+**Activity 2: Demostracion a traves de un boton**
+
+| Boton en MainActivity | SecondActivity |
+| :---: | :---: |
+| ![Button2ndActivity](https://github.com/user-attachments/assets/0513f71b-6d88-41fc-824f-1224b4a394f8) | ![2ndActivity](https://github.com/user-attachments/assets/0071905e-7995-4531-beb1-6cf550318b9e) |
+
+
+**Fragment 3: Elementos de selección (CheckBox, RadioButton, Switch)**
+
+![Seleccion](https://github.com/user-attachments/assets/8b6cd7f5-5450-4a4f-ae4f-559a23afc806)
+
+**Fragment 4: Listas (RecyclerView o ListView)**
+
+| Vista Principal de la Lista | Detalle al Seleccionar un Elemento |
+| :---: | :---: |
+| ![mainView](https://github.com/user-attachments/assets/ddf919a0-a8b2-4c0f-a28e-00dea0fec497) | ![selectionDetail](https://github.com/user-attachments/assets/94639bcc-db45-4117-a472-1e610c8d15b9) |
+
+**Fragment 5: Elementos de información (TextView, ImageView, ProgressBar)**
+
+| Estado Inicial | Indicador de Progreso Activo |
+| :---: | :---: |
+| ![initialState](https://github.com/user-attachments/assets/ddbe7fb7-a9e9-4b14-99e9-5968dab7f56c) | ![progressActive](https://github.com/user-attachments/assets/c87bc6c8-6c09-443e-9683-d1ec694a6e0d) |
