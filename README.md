@@ -48,6 +48,7 @@ Para utilizar este proyecto, sigue estos pasos:
 
 **Activity 2: Demostracion a traves de un boton**
 
+| Boton en MainActivity | SecondActivity |
 | :---: | :---: |
 | ![Button2ndActivity](https://github.com/user-attachments/assets/0513f71b-6d88-41fc-824f-1224b4a394f8) | ![2ndActivity](https://github.com/user-attachments/assets/0071905e-7995-4531-beb1-6cf550318b9e) |
 
