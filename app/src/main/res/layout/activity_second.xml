@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context=".SecondActivity">
+
+    <TextView
+        android:id="@+id/textView_activity_explanation"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Una Activity es un componente de la aplicación que proporciona una pantalla con la que los usuarios pueden interactuar para hacer algo, como marcar un número de teléfono, tomar una foto, enviar un correo electrónico o ver un mapa. Cada Activity recibe una ventana en la que dibujar su interfaz de usuario. Por lo general, la ventana ocupa toda la pantalla, pero también puede ser más pequeña que la pantalla y flotar encima de otras ventanas."
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
