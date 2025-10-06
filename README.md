@@ -38,6 +38,10 @@ Para utilizar este proyecto, sigue estos pasos:
 5.  **Explorar la Aplicación:**
     *   Una vez que la aplicación se inicie, podrás navegar a través de las diferentes secciones para interactuar con los elementos de la interfaz de usuario implementados.
 
+**Video: Uso de SharedPreferences**
+
+https://drive.google.com/file/d/104y0wEj2nMBmnC-Awuwjkto7aFegyNpS/view?usp=sharing
+
 **Fragment 1: TextFields (EditText)** 
 
 ![](https://github.com/user-attachments/assets/71b40d53-aa6b-4069-9ab0-247b0ba19e34)
